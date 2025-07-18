@@ -1,6 +1,8 @@
 # DisasterComm
 
-A Severity-Aware Big Data Communication Framework for Effective Disaster Notification.
+A Severity-Aware Big Data Communication Framework for Effective Disaster Notification. This paper was accepted in ISBM 2025 and publication in and publication in Springer SIST series.
+![Acceptance Email](acceptance_email.png)
+Conference link-https://isbm.ict4sd.org/publication.php
 ## 📄 Research Paper
 You can read the full research paper [here](DisasterComm%20-%20A%20Severity-Aware%20Big%20Data%20Communication%20Framework%20for%20Effective%20Disaster%20Notification%20(1).pdf).
 
